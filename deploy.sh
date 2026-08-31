@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="<https://github.com/baksanovev/shvirtd-example-python>"
+REPO_URL="https://github.com/baksanovev/shvirtd-example-python"
 APP_DIR="/opt/shvirtd-example-python"
 
 echo "=== Deploy shvirtd project ==="
